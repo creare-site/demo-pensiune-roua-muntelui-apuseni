@@ -1,0 +1,29 @@
+{
+    "copy"           : "WebsiteMarket", 
+    "email"          : "rouamunteluibaiadearies@gmail.com",
+    "phone"          : "0744475969",
+    "address"        : "Strada Avram Iancu 9, Baia de Arieș 515300.",
+    "design"         : "Paradigm by Html5 UP",
+
+    "app_title"      : "Pensiunea Roua Muntelui",
+    "app_subtitle"   : "O locatie excelenta de cazare in Baia De Aries, Alba.",
+
+    "seo_title"      : "Pensiunea Roua Muntelui - Cazare Apuseni | WebsiteMarket",
+    "seo_desc"       : "O locatie excelenta de cazare in Baia De Aries, Alba.",
+
+    "service"        : "https://websitemarket.ro", 
+
+    "product"        : "https://websitemarket.ro/creare-site/pensiuni/roua-muntelui-apuseni/", 
+    "github"         : "https://github.com/creare-site/demo-pensiune-roua-muntelui-apuseni/",
+    "github_group"   : "https://github.com/creare-site/",
+
+    "blog"           : "https://blog.websitemarket.ro/",
+    "facebook"       : "https://www.facebook.com/Pensiunea-Roua-Muntelui-1498509797033647/",
+    "youtube"        : "https://www.youtube.com/",
+    "twitter"        : "https://twitter.com/websitemarketro/",
+    "instagram"      : "https://websitemarket.ro",
+    "support"        : "https://websitemarket.ro",
+    "discord"        : "https://discord.gg/MFRQmAk",
+
+    "LAST_KEY" : "NA"
+}

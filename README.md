@@ -1,4 +1,4 @@
-﻿# [Pensiunea Roua Muntelui](https://websitemarket.ro/creare-site/pensiuni/pensiune-roua-muntelui-apuseni/) - Site Prezentare
+﻿# [Pensiunea Roua Muntelui](https://websitemarket.ro/creare-site/pensiuni/roua-muntelui-apuseni/) - Site Prezentare
 
 Site de prezentare, un produs [WebsiteMarket](https://websitemarket.ro)
 
@@ -43,4 +43,4 @@ Prin Email **hello [@ ] websitemarket.ro** sau pe LIVE chat-ul [Discord](https:/
 <br />
 
 ---
-[Pensiunea Roua Muntelui](https://websitemarket.ro/creare-site/pensiuni/pensiune-roua-muntelui-apuseni/) un produs **WebsiteMarket**
+[Pensiunea Roua Muntelui](https://websitemarket.ro/creare-site/pensiuni/roua-muntelui-apuseni/) un produs **WebsiteMarket**
